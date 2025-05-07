@@ -1,4 +1,4 @@
-Project 2: Stock Volatility Analysis using AWS Athena, Glue, and Lambda
+## Project 2: Stock Volatility Analysis using AWS Athena, Glue, and Lambda
 Project Overview
 This project implements a complete data pipeline to analyze stock price volatility using AWS services. The pipeline covers data ingestion, storage, cataloging, querying, and optional visualization. The goal is to compute daily stock volatility metrics such as average, maximum, and minimum values for multiple companies in a scalable and automated manner.
 
